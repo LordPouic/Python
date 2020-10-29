@@ -73,17 +73,17 @@ Ecrire un algorithme qui demande 10 valeurs à un utilisateur et qui affiche à 
 ```
 
 ```
-Trouver un moyen d'écrire un programme prenant un chiffre et affichant une figure comme celle ci (pour un chiffre entré de 9) :
+Trouver un moyen d'écrire un programme prenant un chiffre et affichant une figure comme celle ci (pour un chiffre entré de 9) :<br>
 0000000000<br>
 111111111<br>
 22222222<br>
-3333333
-444444
-55555
-6666
-777
-88
-9
+3333333<br>
+444444<br>
+55555<br>
+6666<br>
+777<br>
+88<br>
+9<br>
 
 ```
 
