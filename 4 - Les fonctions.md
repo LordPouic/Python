@@ -53,8 +53,4 @@ Bonus - Ecrire une fonction qui prend un nombre compris entre 1 et 3999 et qui a
 ```
 
 ```
-Bonus - Ecrire une fonction qui prend en entrée un chiffre compris entre 2 et 12 et qui affiche toutes les combinaisons possibles de faire le résultat via deux dés à 6 faces
 
-```
-
-```
