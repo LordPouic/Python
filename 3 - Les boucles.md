@@ -54,6 +54,20 @@ Bonus - Ecrire un programme détectant les nombres de Armstrong compris entre 0 
 
 ```
 
+----Exercices complémentaires----
+
+Ecrire un programme qui prend un chiffre donné par l'utilisateur (positif ou négatif) et qui affiche tout les nombres compris entre ce nombre et zero
+
+```
+
+```
+
+Ecrire un algorithme prenant un chiffre entier donné par l'utilisateur et qui l'affiche à l'envers (12345 deveint 54321)
+
+```
+
+```
+
 
 
 
