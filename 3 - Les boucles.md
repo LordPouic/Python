@@ -68,7 +68,10 @@ Ecrire un algorithme prenant un chiffre entier donné par l'utilisateur et qui l
 
 ```
 
+Ecrire un algorithme qui demande 10 valeurs à un utilisateur et qui affiche à la fin le plus petit nombre donné
 
+```
 
+```
 
 
