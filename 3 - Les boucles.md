@@ -62,7 +62,7 @@ Ecrire un programme qui prend un chiffre donné par l'utilisateur (positif ou n�
 
 ```
 
-Ecrire un algorithme prenant un chiffre entier donné par l'utilisateur et qui l'affiche à l'envers (12345 deveint 54321)
+Ecrire un algorithme prenant un chiffre entier donné par l'utilisateur et qui l'affiche à l'envers (12345 devient 54321)
 
 ```
 
