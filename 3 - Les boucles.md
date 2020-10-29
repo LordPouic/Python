@@ -74,16 +74,16 @@ Ecrire un algorithme qui demande 10 valeurs à un utilisateur et qui affiche à 
 
 ```
 Trouver un moyen d'écrire un programme prenant un chiffre et affichant une figure comme celle ci (pour un chiffre entré de 9) :
-0000000000
-111111111
-22222222
-3333333
-444444
-55555
-6666
-777
-88
-9
+0000000000\n
+111111111n
+22222222\n
+3333333\n
+444444\n
+55555\n
+6666\n
+777\n
+88\n
+9\n
 
 ```
 
