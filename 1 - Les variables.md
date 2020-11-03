@@ -54,34 +54,18 @@ print(A,B)
 3 - Ecrire un programme ayant une variable R correspondant au rayon d’un cercle, donner une valeur à R et calculer le périmètre du cercle de rayon R
 
 ```
-from math import *
 
-Ray = float(input())
-Perimeter = Ray * 2 * pi
-print(Perimeter)
 ```
 
 4 - Ecrire un programme ayant 4 variables correspondant à 4 notes, donner des valeurs aux variables et écrire un algorithme permettant de calculer la moyenne de ces 4 notes
 
 ```
-n1 = int(input())
-n2 = int(input())
-n3 = int(input())
-n4 = int(input())
 
-Moyenne = (n1+n2+n3+n4)/4
-print(Moyenne)
 ```
 
 5 - Ecrire un programme ayant une variable S contenant des secondes. Afficher le nombre d'heures et de minutes correspondantes.
 
 
 ```
-Sec =  750000000
-H = Sec//3600
-Sec = Sec%3600
-M = Sec//60
-Sec = Sec%60
 
-print (H,"h,",M,"min et ",Sec," Sec")
 ```
