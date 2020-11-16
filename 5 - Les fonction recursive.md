@@ -15,3 +15,9 @@
 ```
 
 ```
+
+
+4 - Refaire l'exercice sur la suite de fibonacci via une fonction récursive
+```
+
+```
