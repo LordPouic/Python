@@ -1,10 +1,10 @@
-1 - Via une boucle afficher tout les chiffres entiers de 100 à 1
+1 - Via une boucle afficher tous les chiffres entiers de 100 à 1
 
 ```
 
 ```
 
-2 - Via une boucle afficher tout les chiffres pairs de 1 à 100
+2 - Via une boucle afficher tous les chiffres pairs de 1 à 100
 
 ```
 
@@ -56,7 +56,7 @@ Bonus - Ecrire un programme détectant les nombres de Armstrong compris entre 0 
 
 ----Exercices complémentaires----
 
-Ecrire un programme qui prend un chiffre donné par l'utilisateur (positif ou négatif) et qui affiche tout les nombres compris entre ce nombre et zero
+Ecrire un programme qui prend un chiffre donné par l'utilisateur (positif ou négatif) et qui affiche tous les nombres compris entre ce nombre et zero
 
 ```
 
