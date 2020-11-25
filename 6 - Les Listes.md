@@ -40,7 +40,7 @@
 
 ```
 
-9 - Créer une fonction prenant un entier et une liste en paramètre et qui affiche si oui ou non cet entier est présent dans cette liste
+8 - Créer une fonction prenant un entier et une liste en paramètre et qui affiche si oui ou non cet entier est présent dans cette liste
 
 ```
 
