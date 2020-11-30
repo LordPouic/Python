@@ -28,7 +28,7 @@
 
 ```
 
-6 - Créer une fonction prenant une liste en entrée et la trasformant pour lui enlever les valeurs 0
+6 - Créer une fonction prenant une liste en entrée et la transformant pour lui enlever les valeurs 0
 
 ```
 
