@@ -1,5 +1,5 @@
 1 - Créer une fonction retournant une liste de dix cases chacune contenant une autre liste de 10 cases
-    remplit par la valeur de l’indice du premier tableau plus celui du deuxième
+    remplit par la valeur de l’indice de la première liste plus celui de la deuxième
 
 ```
 
