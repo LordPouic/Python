@@ -61,7 +61,7 @@ Créer une fonction permettant d'ouvrir son inventaire (afficher la liste des ob
 
 ```
 
-5 - Créer une classe Monster ayant comme paramètres : 
+6 - Créer une classe Monster ayant comme paramètres : 
  - Un nom
  - Une force
  - Une Defense
@@ -74,13 +74,13 @@ Rajouter la liste des attaques possibles au PlayerRpg
 
 ```
 
-6 - Créer une fonction Attaque pour le PlayerRpg et le Monster, permettant de choisir la prochaine attaque parmis les attaques possibles
+7 - Créer une fonction Attaque pour le PlayerRpg et le Monster, permettant de choisir la prochaine attaque parmis les attaques possibles
 
 ```
 
 ```
 
-7 - Créer grâce à tout les éléments des exercices précedants, une fonction de Combat entre un PlayerRpg et un Monster
+8 - Créer grâce à tout les éléments des exercices précedants, une fonction de Combat entre un PlayerRpg et un Monster
 
 ```
 
