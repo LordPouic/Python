@@ -3,6 +3,7 @@
  - Un age
  - Un ou plusieurs propriétaires
  - Une liste des "tricks" qu'a appris le chien
+ 
 La classe chien a aussi plusieurs fonctions :
  - Une fonction "Learn" permettant de rajouter un trick
  - Une fonction de comparaison permettant de connaitre les tricks en commun avec un autre chien
