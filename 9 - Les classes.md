@@ -46,7 +46,16 @@ Créer une fonction permettant d'ouvrir son inventaire (afficher la liste des ob
 4 - En continuant l'exercice 3, trouver une solution pour utiliser un objet de l'inventaire du HeroRpg. Il éxiste 3 objets différents :
 - Une potion de vie
 - Une potion de Force 
-- Une potion de
+- Une potion de Defense
+
+```
+
+```
+
+5 - Créer une classe Attaque ayant comme pramètres :
+ - Un nom
+ - Un pourcentage de chance de toucher
+ - Des dégats
 
 ```
 
@@ -61,4 +70,18 @@ Créer une fonction permettant d'ouvrir son inventaire (afficher la liste des ob
 
 Rajouter la liste des attaques possibles au PlayerRpg
 
-rajouter à la classe PlayerRpg une fonction de combat prenant en paramètre un Monster et via les deux classes, réaliser un petit combat.
+```
+
+```
+
+6 - Créer une fonction Attaque pour le PlayerRpg et le Monster, permettant de choisir la prochaine attaque parmis les attaques possibles
+
+```
+
+```
+
+7 - Créer grâce à tout les éléments des exercices précedants, une fonction de Combat entre un PlayerRpg et un Monster
+
+```
+
+```
