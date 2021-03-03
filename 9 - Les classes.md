@@ -36,8 +36,9 @@ et ayant comme fonctions :
  - Une Defense
  - Un nombre de points de vie
  - Une liste d'objets
- - 
+ 
 Créer le constructeur de PlayerRPG qui ne prend en paramètre qu'une seule chose, le type de Hero (Guerrier, Mage, etc)
+
 Créer une fonction permettant d'ouvrir son inventaire (afficher la liste des objets)
 
 ```
