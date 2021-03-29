@@ -1,0 +1,29 @@
+1 - Créer une classe Point, ayant comme paramètres :
+    - Un X
+    - Un Y
+    
+   Rajouter à cette class une fonction distance, permettant de connaitre la distance entre deux points.
+ 
+2 - Créer une class Polygone, ayant comme paramètres :
+    - Une liste de points
+    
+   Rajouter à cette class une fonction permettant de connaitre le perimètre du polygone.
+   
+3 - Créer la class Triangle, fille de Polygone mais ne contenant que 3 points et un boolean indiquant si oui ou non le triangle est rectangle.
+
+4 - Créer une class Zombie définit par :
+    - La taille
+    - Le Niveau du zombie 
+    - la Force de frappe 
+    - Nom du zombie (il a le droit d'avoir eu un passé quand même)
+    - Couleur de peau du zombie (entre gris, bleu et vert)
+    - Des points de vie
+    
+   Créer une fonction permettant de faire monter le niveau du zombie, sachant qu'en fonction du niveau sa couleur change.
+   Créer une fonction d'attaque en fonction de la force et du niveau du zombie.
+   
+ 5 - Créer une class Zomboss, le gros zombie fille de la class zombie. Voila ce qui le définit :
+     - Il peut manger un zombie pour se soigner
+     - Quand il monte de niveau, sa taille augmente en plus du changement de couleur
+     - Les dégats de ses attaques sont doublés
+     
