@@ -16,21 +16,34 @@
 
 ```
 
-4 - Faire un programme qui prend une note au bac et qui affiche la mention assignée à cette note
+4 - Faire un programme prennant un chiffre un chiffre et qui affiche sa valeur absolue
 
 ```
 
 ```
 
-5 - Faire un programme qui prend un chiffre et qui affiche si ce chiffre est pair ou impair
+5 - Faire un programme qui prend une note au bac et qui affiche la mention assignée à cette note
 
 ```
 
 ```
 
-6 - Ecrire un programme qui détecte si une année est bissextile
+6 - Faire un programme qui prend un chiffre et qui affiche si ce chiffre est pair ou impair
 
 ```
 
 ```
 
+7 - Ecrire un programme qui détecte si une année est bissextile
+
+```
+
+```
+
+8 - Ecrire un programme permettant de calculer le prix d'un produit dans une boutique en fonction des promotions appliquées.
+l'utilisateur devra choisir son produit et donner sa catégorie entre : reduction étudiante, réduction sénior et sans réductions.
+L'étudiant a une promotion de 14% et le senior en a une de 20%.
+
+```
+
+```
