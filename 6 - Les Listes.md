@@ -50,7 +50,7 @@
 
 ```
 
-Bonus - Créer une fonction prenant en entrée une liste et affichant cette même liste mais triée par ordre croissant. Le faire de quatres façons différentes.
+9 - Créer une fonction prenant en entrée une liste et affichant cette même liste mais triée par ordre croissant. Le faire de quatres façons différentes.
 
 ```
 
@@ -60,5 +60,9 @@ Bonus - Créer une fonction prenant en entrée une liste et affichant cette mêm
 
 ```
 
+10 - Créer un programme permettant de jouer au morpion. Le principe du jeu est simple. C’est un jeu au tour par tour, où le but est d’aligner un trio de cercles ou de croix en diagonale, horizontalement ou verticalement sur une grille de 3×3 carrés pour obtenir la victoire.
 
+```
+
+```
 
