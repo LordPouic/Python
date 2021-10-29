@@ -1,6 +1,7 @@
 
-Lien du fichier drive Groupe 1 : https://colab.research.google.com/drive/1pUFmbbWHifFYvAaXHtSYIVJCg5_C25Nv?usp=sharing
-Lien du fichier drive Groupe 2 : https://colab.research.google.com/drive/1FlnzGN4H5ehcQ-SQk3FzfVqeq-XBecIN?usp=sharing
+Lien du fichier drive Groupe 1 Web 1 : https://colab.research.google.com/drive/1pUFmbbWHifFYvAaXHtSYIVJCg5_C25Nv?usp=sharing
+Lien du fichier drive Groupe 2 Web 1: https://colab.research.google.com/drive/1FlnzGN4H5ehcQ-SQk3FzfVqeq-XBecIN?usp=sharing
+Lien du fichier drive H1 : https://colab.research.google.com/drive/16K_p5EEmMwENAojYaQIKwDQb190XTod8?usp=sharing
 
 1 - Ecrire un programme ayant une variable C, donner une valeur à C, calculer et afficher son carré
 
