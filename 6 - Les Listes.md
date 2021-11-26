@@ -66,3 +66,5 @@
 
 ```
 
+Mini projet - Créer un jeu de pendu. le jeu commence par un petit menu dans lequel le joueur peut choisir la difficulté de sa partie, ensuite un mot sera choisi aléatoirement parmis plusieurs listes de mots liées à la difficulté (facile : mot de 4 lettres, moyen : 6 lettres, difficile : 8 lettres). Une fois le mot choisi, le jeu se lance et affiche le nombre de lettres du mot caché. Le jeu proposera au joueur de deviner une des lettres du mot, si le joueur tombe juste, elle se dévoile et montre son emplacement dans le mot, si le joueur se trompe une partie du pendu s'affiche et enfin si le joueur propose une lettre qui a déjà été proposée rien ne se passe. Le jeu se termine lorsque toutes les lettres du mot sont affichées ou bien lorsque le joueur n'a plus d'essais et donc que le pendu est complet. Quelque soit la fin, le menu se relance pour pouvoir faire une nouvelle partie.
+
