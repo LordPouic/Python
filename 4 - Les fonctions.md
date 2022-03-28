@@ -16,7 +16,7 @@
 
 ```
 
-4 - Créer deux fonctions qui prennent en entrée deux paramètres A et B et qui retournent A puissance B 
+4 - Créer deux fonctions différentes qui prennent en entrée deux paramètres A et B et qui retournent A puissance B
 
 ```
 
