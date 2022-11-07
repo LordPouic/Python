@@ -1,3 +1,9 @@
+0 - Via une boucle afficher tous les chiffres entiers de 1 à 100
+
+```
+
+```
+
 1 - Via une boucle afficher tous les chiffres entiers de 100 à 1
 
 ```
