@@ -16,15 +16,6 @@
 
 ```
 
-4 - Créer deux fonctions différentes qui prennent en entrée deux paramètres A et B et qui retournent A puissance B
-
-```
-
-```
-
-```
-
-```
 
 5 - Créer une fonction qui répond oui ou non au fait que le paramètre donné soit un chiffre premier ou pas
 
