@@ -1,0 +1,32 @@
+1 - Créer une façon d'adapter la liste chaînée pour trouver la première et la dernière donnée de la liste en compléxité de O(1)
+```
+
+```
+
+2 - Créer une fonction permettant de calculer la taille de la liste chainée
+```
+
+```
+
+3 - Créer une fonction permettant de rajouter une valeur à un indice précis de la liste chaînée
+```
+
+```
+
+4 - Changer la fonction d'ajout de données dans la liste pour que chaque donnée rentrée soit automatiquement triée
+```
+
+```
+
+5 - Créer une nouvelle classe Liste double chaînée ou chaque node possède la réfrence du Node d'avant de celui d'après
+```
+
+```
+
+6 - Créer une fonction permettant de rajouter une valeur à un indice précis de la liste double chaînée
+
+```
+
+```
+
+7 - Créer une fonction invert permettant de 
