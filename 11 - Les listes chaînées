@@ -24,9 +24,16 @@
 ```
 
 6 - Créer une fonction permettant de rajouter une valeur à un indice précis de la liste double chaînée
-
 ```
 
 ```
 
-7 - Créer une fonction invert permettant de 
+7 - Créer une fonction permettant de supprimer un Node précis de la liste double chaînée
+```
+
+```
+
+8 - Créer une fonction retournant la liste double chainée inversée
+```
+
+```
