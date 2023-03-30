@@ -6,3 +6,17 @@ Par exemple : "(())()" -> True, "(()))" -> False
 
 ```
 
+2 - Ecrire une fonction prenant en paramètre une String et retournant ce texte inversé 
+```
+
+```
+
+3 - Créer une fonction de recherche permettant de savoir si oui ou non une donnée est présente dans la Stack
+```
+
+```
+
+4 - Créer une fonction transformant un nombre en sa valeur binaire
+```
+
+```
