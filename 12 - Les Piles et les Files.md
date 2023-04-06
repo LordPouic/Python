@@ -20,3 +20,4 @@ Par exemple : "(())()" -> True, "(()))" -> False
 ```
 
 ```
+5 - Via une File faire un jeu de la patate chaude, chaque personne passe la patate au suivant et lorsque que le compteur de passe est à zéro la prochaine personne à perdue.
