@@ -7,5 +7,8 @@
 2 - Via une file, créer un systeme permettant de protéger l'intégrité de l'historique, pour cela il faudra trouver un moyen de limiter l'accès à l'historique pour qu'une seule personne à la fois ne puisse travailler dessus.
 
 3 - Via un arbre binaire ou non, créer un système de discution permettant de faire un questionnaire à l'utilisateur. L'utilisateur pourra appeler une commande "help" permettant de 
-lancer la conversation et le bot tentera de définir son besoin en lui posant une série de questions, à la fin de la conversation une réponse sera donné au besoin. 
+lancer la conversation et le bot tentera de définir son besoin en lui posant une série de questions prédéfinies, à la fin de la conversation une réponse sera donné au besoin. 
 les sujets que devra aborder sont libre.
+    De plus la gestion des discutions avec le bot doit avoir un certain nombre de commandes :
+    - "reset" : permettra de recommencer la discution
+    - "speak about X" : permettra de savoir si un sujet est traité par le bot ou non (exemple : speak about python dira si oui ou non le bot parle de python)
