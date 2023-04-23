@@ -25,3 +25,5 @@ Vous êtes libre d'utiliser ce que vous voulez pour stocker les données, un fic
 6 - (6 points) - Pour avoir les points restants, vous êtes libre de rajouter toutes les fonctionnalités que vous voulez à votre bot discord.
 
 Attention, Les listes chainées, les files, les arbres et les hashmap doivent être créés à la main et ne doivent pas venir de modules et packages python.
+Le rendu devra se faire pour le 15 Mai (date de notre dernier cours ensemble) avant minuit sous la forme d'un lien vers un repository github.
+Chaque journée de retard aura un malus de -5 points sur la note finale.
