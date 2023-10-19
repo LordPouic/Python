@@ -1,7 +1,6 @@
 
-1 - Ecrire une fonction qui prend en paramètre un texte et affiche si oui ou non une chaine de charactères possède le bon nombre de parenthèses ouvrante et fermante.
+1 - Via une Pile, écrire une fonction qui prend en paramètre un texte et affiche si oui ou non une chaine de charactères possède le bon nombre de parenthèses ouvrante et fermante.
 Par exemple : "(())()" -> True, "(()))" -> False
-
 ```
 
 ```
@@ -11,7 +10,7 @@ Par exemple : "(())()" -> True, "(()))" -> False
 
 ```
 
-3 - Créer une fonction de recherche permettant de savoir si oui ou non une donnée est présente dans la Stack
+3 - Créer une fonction de recherche permettant de savoir si oui ou non une donnée est présente dans une Pile
 ```
 
 ```
@@ -20,4 +19,8 @@ Par exemple : "(())()" -> True, "(()))" -> False
 ```
 
 ```
+
 5 - Via une File faire un jeu de la patate chaude, chaque personne passe la patate au suivant et lorsque que le compteur de passe est à zéro la prochaine personne à perdue.
+```
+
+```
