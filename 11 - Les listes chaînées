@@ -3,7 +3,7 @@
 
 ```
 
-2 - Créer une fonction permettant de calculer la taille de la liste chainée
+2 - Créer une fonction permettant de calculer la taille de la liste chainée, trouver une solution pour la complexité soit en 0(1)
 ```
 
 ```
@@ -37,5 +37,6 @@
 ```
 
 ```
-9 - Pour le projet, intégrer une liste double chainée afin d'avoir un historique des commandes rentrées dans votre bot
+
+
 
