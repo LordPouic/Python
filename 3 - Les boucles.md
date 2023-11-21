@@ -61,24 +61,24 @@ Bonus - Ecrire un programme détectant les nombres de Armstrong compris entre 0 
 
 ----Exercices complémentaires----
 
-Ecrire un programme qui prend un chiffre donné par l'utilisateur (positif ou négatif) et qui affiche tous les nombres compris entre ce nombre et zero
+1 - Ecrire un programme qui prend un chiffre donné par l'utilisateur (positif ou négatif) et qui affiche tous les nombres compris entre ce nombre et zero
 
 ```
 
 ```
 
-Ecrire un algorithme prenant un nombre entier donné par l'utilisateur et qui l'affiche à l'envers (12345 devient 54321)
+2 - Ecrire un algorithme prenant un nombre entier donné par l'utilisateur et qui l'affiche à l'envers (12345 devient 54321)
 
 ```
 
 ```
 
-Ecrire un algorithme qui demande 10 valeurs à un utilisateur et qui affiche à la fin le plus petit nombre donné
+3 - Ecrire un algorithme qui demande 10 valeurs à un utilisateur et qui affiche à la fin le plus petit nombre donné
 
 ```
 
 ```
-Trouver un moyen d'écrire un programme prenant un chiffre et affichant une figure comme celle ci (pour un chiffre entré de 9) :<br>
+4 - Trouver un moyen d'écrire un programme prenant un chiffre et affichant une figure comme celle ci (pour un chiffre entré de 9) :<br>
 0000000000<br>
 111111111<br>
 22222222<br>
