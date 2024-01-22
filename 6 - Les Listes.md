@@ -22,12 +22,6 @@
 
 ```
 
-5 - Créer une fonction créant 2 listes de valeurs aléatoires et qui donne en résultat une nouvelle liste qui est la concaténation des deux premieres
-
-```
-
-```
-
 6 - Créer une fonction prenant une liste en entrée et la transformant pour lui enlever les valeurs 0
 
 ```
