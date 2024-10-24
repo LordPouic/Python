@@ -53,7 +53,7 @@ Bonus - Ecrire un programme qui calcule la 20eme valeur de la suite de Fibonacci
 
 ```
 
-Bonus - Ecrire un programme détectant les nombres de Armstrong compris entre 0 et 999. (254 est un nombre d'armstrong parce que 153 = 1**3 + 5**3 + 3**3)
+Bonus - Ecrire un programme détectant les nombres de Armstrong compris entre 0 et 999. (153 est un nombre d'armstrong parce que 153 = 1**3 + 5**3 + 3**3)
 
 ```
 
