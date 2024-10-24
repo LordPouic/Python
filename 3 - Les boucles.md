@@ -16,7 +16,7 @@
 
 ```
 
-3 - Via une boucle écrire un programme qui calcule la somme des 10 premiers chiffres entiers
+3 - Via une boucle écrire un programme qui calcule la somme des 100 premiers chiffres entiers
 
 ```
 
