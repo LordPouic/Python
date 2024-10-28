@@ -40,7 +40,7 @@
 
 ```
 
-9 - Créer une fonction prenant en entrée une liste et affichant cette même liste mais triée par ordre croissant. Le faire de quatres façons différentes.
+9 - Créer une fonction prenant en entrée une liste et affichant cette même liste mais triée par ordre croissant. Le faire de deux façons différentes.
 
 ```
 
