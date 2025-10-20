@@ -49,7 +49,7 @@ Créer une fonction permettant d'ouvrir son inventaire (afficher la liste des ob
 - Une potion de vie
 - Une potion de Force 
 - Une potion de Defense
-Créer ensuite une fonction permettant à un PlayerRPG de Boire une potion.
+<br>Créer ensuite une fonction permettant à un PlayerRPG de Boire une potion.
 ```
 
 ```
