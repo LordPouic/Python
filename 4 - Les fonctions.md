@@ -42,6 +42,14 @@ Pour cela il est possible de relancer jusqu'à 3 fois certains dès si leurs val
 
 ```
 
+7bis - faire un jeu à base de lancé de dés, le but est de faire, avec 3 dés une combinaison 4, 2 et 1.
+Pour cela il est possible de relancer jusqu'à 5 fois tous les dès si leurs valeurs ne nous conviennent pas.
+
+```
+
+```
+
+
 8- Faire un jeu à base de cartes, chaque carte à un numéro compris entre 1 et 10 et lorsque qu'on lance le programme on tire une main composée de 3 cartes tirées aléatoirement.
 Cette main va nous donner des points en fonction des combinaisons présentes.
 Pour calculer les points il faudra réaliser :
