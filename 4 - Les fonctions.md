@@ -53,7 +53,7 @@ Pour cela il est possible de relancer jusqu'à 5 fois tous les dès si leurs val
 ```
 
 ```
-9 - Réaliser un jeu de pari via des lancés de dé, le but est de marquer le plus de points possible sachant que chaque lancé de dé sans perdre fait gagner un point. A chaque tour le joueur lance 3 dés et regarde les résultats il peut ensuite choisir entre  "plus grand" et "Stop". Si le joueur à choisi plus grand il relance les dés et regarde son résultat : Si la somme des 3 dès est plus petites que celle de l'ancien jet, son score tombe à 0. SI il ets plus grand il marque un point et peut recommencer. Si le joueur choisi "Stop" il garde son score et s'arrête.
+9 - Réaliser un jeu de pari via des lancés de dé, le but est de marquer le plus de points possible sachant que chaque lancé de dé sans perdre fait gagner un point. A chaque tour le joueur lance 3 dés et regarde les résultats il peut ensuite choisir entre  "plus grand" et "Stop". Si le joueur à choisi plus grand il relance les dés et regarde son résultat : Si la somme des 3 dès est plus petites que celle de l'ancien jet, son score tombe à 0 et le jeu s'arrête. Si il est plus grand il marque un point et peut recommencer. Si le joueur choisi "Stop" il garde son score et s'arrête.
 ```
 
 ```
