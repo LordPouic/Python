@@ -42,4 +42,16 @@ Pour cela il est possible de relancer jusqu'à 3 fois certains dès si leurs val
 
 ```
 
+8- Faire un jeu à base de cartes, chaque carte à un numéro compris entre 1 et 10 et lorsque qu'on lance le programme on tire une main composée de 3 cartes tirées aléatoirement.
+Cette main va nous donner des points en fonction des combinaisons présentes.
+Pour calculer les points il faudra réaliser :
+  - Une fonction donnant 2 points par paires de cartes (2 cartes identiques)
+  - Une fonction donnant 5 points par brelan (3 cartes identiques)
+  - Une fonction donnant 20 si toutes les cartes se suivent (4,5,6 par exemple)
+  - une fonction donnant 1 point par as dans la main  
+Le but est de tirer 2 mains différentes de cartes correspondant à deux joueurs puis de comparer pour savoir qui a eu le plus de points
+```
+
+```
+
 
