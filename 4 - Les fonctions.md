@@ -42,7 +42,7 @@ Pour cela il est possible de relancer jusqu'à 3 fois certains dès si leurs val
 
 ```
 
-7bis - faire un jeu à base de lancé de dés, le but est de faire, avec 3 dés une combinaison 4, 2 et 1.
+7bis - faire un jeu à base de lancé de dés, le but est de faire, avec 3 dés une combinaison 6,6 et 6.
 Pour cela il est possible de relancer jusqu'à 5 fois tous les dès si leurs valeurs ne nous conviennent pas.
 
 ```
