@@ -22,25 +22,25 @@
 
 ```
 
-6 - Créer une fonction prenant une liste en entrée et la transformant pour lui enlever les valeurs 0
+5 - Créer une fonction prenant une liste en entrée et la transformant pour lui enlever les valeurs 0
 
 ```
 
 ```
 
-7 - Créer une fonction prenant une liste entrée et affichant la valeur maximale comprise dans cette liste
+6 - Créer une fonction prenant une liste entrée et affichant la valeur maximale comprise dans cette liste
 
 ```
 
 ```
 
-8 - Créer une fonction prenant un entier et une liste en paramètre et qui affiche si oui ou non cet entier est présent dans cette liste
+7 - Créer une fonction prenant un entier et une liste en paramètre et qui affiche si oui ou non cet entier est présent dans cette liste
 
 ```
 
 ```
 
-9 - Créer une fonction prenant en entrée une liste et affichant cette même liste mais triée par ordre croissant. Le faire de deux façons différentes.
+8 - Créer une fonction prenant en entrée une liste et affichant cette même liste mais triée par ordre croissant. Le faire de deux façons différentes.
 
 ```
 
