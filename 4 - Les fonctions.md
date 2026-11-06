@@ -1,4 +1,4 @@
-1 - Ecrire une fonction qui prend en paramètre un texte et l'affiche 10 fois.
+1 - Ecrire une fonction qui prend en paramètre deux textes et les affiches 10 fois.
 
 ```
 
